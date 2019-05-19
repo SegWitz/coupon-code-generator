@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\source\repos\coupon code generator iia\coupon code generator iia\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coupon Code Generator IIA.vcxproj -> C:\Users\User\source\repos\Coupon Code Generator IIA\Debug\Coupon Code Generator IIA.exe
